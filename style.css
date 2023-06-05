@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-section{
+    background-image: url(images/radish-green-salad-land1.jpg);
+    background-position: middle;
+    
+    
+}
+h1{
+    font-size: 60px;
+    background-color: aliceblue;
+    color: rgb(21, 199, 21);
+}
+h2{
+    font-size: 30px;
+    color: rgb(25, 194, 25);
+}
+p{
+    font-size: 20px;
+}
+.second-section{
+    display: flex;
+}
+.half-width img{
+    width: 85%;
+    height: 350px;
+    margin-left: 170px;
+}
+.third-section{
+    display: flex;
+    margin-top: 60px;
+}
+.half-widthp2{
+    width: 50%;
+    padding-left: 70px;
+}
+.half-widthp2 img{
+    width: 65%;
+    padding-left: 50px;
+}
+.picture-paragraph{
+    padding-left: 30px;
+}
