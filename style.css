@@ -67,5 +67,13 @@ p{
     width: 35%;
 }
 h3{
-    color: rgb(84, 133, 6);
+    color: rgb(76, 121, 5);
+}
+footer{
+    text-align: center;
+    background-color: rgb(164, 247, 96);
+    height: 30px;
+}
+footer h3{
+    padding-top: 10px;
 }
